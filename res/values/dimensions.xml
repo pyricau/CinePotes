@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="behind_offset">30dp</dimen>
+
+</resources>
